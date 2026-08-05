@@ -1,9 +1,4 @@
-hysteria2://135686e1-1323-465f-a0e7-ef00822d66e3@87.199.205.95:50000?sni=ok.ru&obfs=salamander&obfs-password=whale-hy-ams02&insecure=1#%F0%9F%87%B3%F0%9F%87%B1%20%7C%20NL%20%7C%201142ms%20%7C%20%F0%9F%87%B3%F0%9F%87%B1134048%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-hysteria2://TelegramVPNjey@179.61.251.253:37003/?obfs=salamander&obfs-password=83v9muumcyikh5ch&sni=de.jey.cc.cd#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20DE%20%7C%201433ms%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20DE%20%7C%201343ms%20%7C%20%F0%9F%A4%9675%40oneclickvpnkeys
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTorSVYyam1Nd0Y2U3ZtS3Z5cnBnb2s1SjlwQUNBdlJrTWIvYlpTdTdHbCtnPQ@e1.cover20.ir:51570#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20DE%20%7C%20458ms%20%7C%20%F0%9F%87%AE%F0%9F%87%B7134220%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-hysteria2://TelegramVPNjey@179.61.251.253:37003?obfs-password=83v9muumcyikh5ch&security=tls&sni=de.jey.cc.cd&alpn=h3#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20DE%20%7C%201261ms%20%7C%20configraygan_2
-https://None:None@84.239.49.175:9002?security=tls&sni=84.239.49.175&allowInsecure=true#RO_speednode_0048
-https://None:None@84.239.49.182:9002?security=tls&sni=84.239.49.182&allowInsecure=true#RO_speednode_0076
-https://84.239.49.171:9002?security=tls&sni=84.239.49.171&allowInsecure=true#RO_speednode_0018
-https://84.239.49.157:9002?security=tls&sni=84.239.49.157&allowInsecure=true#RO_speednode_0057
-https://84.239.49.198:9002?security=tls&sni=84.239.49.198&allowInsecure=true#RO_speednode_0081
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.182.59.68:22222?encryption=none&security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20DE%20%7C%20403ms%20%7C%20%F0%9F%87%A9%F0%9F%87%AA134563%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.182.59.68:22224?encryption=none&security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20DE%20%7C%20409ms%20%7C%20%40filembad
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.182.59.68:22223?encryption=none&security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20DE%20%7C%20420ms%20%7C%20%40filembad
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.182.59.68:22222?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20DE%20%7C%20447ms%20%7C%20%40kia_anet%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%20%DA%A9%DB%8C%D8%A7%D9%86%D8%AA
