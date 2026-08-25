@@ -148,3 +148,8 @@ vless://2b44a12a-2a00-48aa-a8db-0d182e34d888@65.109.215.185:3366?encryption=none
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVkM2MzRRdlZrNWw=@188.116.23.244:8388#@v2rayng3
 vless://9e998501-eaae-4d7e-bbe5-6cecfaef8334@217.69.167.135:15392?encryption=none&security=reality&sni=google.com&fp=chrome&pbk=O8yFUnhj9NOtJ2eUVQTwrGk8HrkHq94QAO090azV428&sid=6a326909&type=grpc&serviceName=grpc&packetEncoding=xudp#%F0%9F%87%B3%F0%9F%87%B1%20%7C%20NL%20%7C%20696ms%20%7C%20%F0%9F%87%A9%F0%9F%87%AA147506%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20=%20t.me/SOSkeyNET
 vless://5658529b-d1eb-9e77-17c1-cdc20d003b3a@69.46.46.199:443?encryption=none&security=tls&sni=stan-production-a4c9.up.railway.app&alpn=http/1.1&fp=chrome&type=ws&host=stan-production-a4c9.up.railway.app&path=/ws/5658529b-d1eb-9e77-17c1-cdc20d003b3a&packetEncoding=xudp#US%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20@Raydikalx%20%7C%20986B1A
+socks5://stsfqyfu:coikHr1toCep@2.26.54.218:2080#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20DE%20%7C%20912ms%20%7C%20DE%F0%9F%87%A9%F0%9F%87%AA%20%7C%20@kia_Net
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZTZjYmI0Ni1lYmIwLTQ3MjYtOTIwMi02YTNiYWMxZDBhZmI=@141.253.107.174:22345#%F0%9F%87%AB%F0%9F%87%B7%20%7C%20FR%20%7C%20535ms%20%7C%20
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNVEZsTg==@194.147.35.56:8388#%F0%9F%87%AC%F0%9F%87%A7%20%7C%20GB%20%7C%201023ms%20%7C%20
+hysteria2://Germany2026hy@45.128.99.14:8443?obfs-password=SalamanderDE2026&security=tls&sni=de.nobelchat.ru&allowInsecure=true#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20DE%20%7C%20719ms%20%7C%20Telegram%20channel%20:%20@proxy_kafee
+ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA==@62.76.234.92:10901#%F0%9F%87%AE%F0%9F%87%B9%20%7C%20IT%20%7C%201200ms%20%7C%20%F0%9F%87%AE%F0%9F%87%B9151562%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20=%20t.me/SOSkeyNET
